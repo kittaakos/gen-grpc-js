@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "name": "gen-grpc-js",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "prepare": "npm run generate",
+    "generate": "./generate.sh"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "grpc-tools": "^1.8.0"
+  }
+}
