@@ -1,5 +1,5 @@
 # gen-grpc-js
-How to generate JS code with @grpc/grpc-js require instead of grpc?
+How to generate JS code with `require('@grpc/grpc-js')` instead of `require('grpc')`?
 
 ```
 npm i
